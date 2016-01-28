@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF01B3A3-30C6-4D5E-B1D2-4923FCD8AD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{B9841DE2-F96E-4AD3-B40C-1F5BC667F3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KissFFT-CS", "KissFFT-CS\KissFFT-CS.csproj", "{585F72A1-AB08-434D-BF14-800F12C2D8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9841DE2-F96E-4AD3-B40C-1F5BC667F3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9841DE2-F96E-4AD3-B40C-1F5BC667F3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9841DE2-F96E-4AD3-B40C-1F5BC667F3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9841DE2-F96E-4AD3-B40C-1F5BC667F3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585F72A1-AB08-434D-BF14-800F12C2D8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585F72A1-AB08-434D-BF14-800F12C2D8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585F72A1-AB08-434D-BF14-800F12C2D8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585F72A1-AB08-434D-BF14-800F12C2D8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
